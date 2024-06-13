@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryGap", "BinaryGap\BinaryGap.csproj", "{DD16D163-B8D3-4B3E-88A4-B3D68B72DB81}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryGap.Test", "BinaryGap.Test\BinaryGap.Test.csproj", "{192C518C-43A3-4122-82B0-768B84EBAD59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD16D163-B8D3-4B3E-88A4-B3D68B72DB81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD16D163-B8D3-4B3E-88A4-B3D68B72DB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD16D163-B8D3-4B3E-88A4-B3D68B72DB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD16D163-B8D3-4B3E-88A4-B3D68B72DB81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{192C518C-43A3-4122-82B0-768B84EBAD59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{192C518C-43A3-4122-82B0-768B84EBAD59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{192C518C-43A3-4122-82B0-768B84EBAD59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{192C518C-43A3-4122-82B0-768B84EBAD59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69802E3C-04E8-45F0-A887-C11EEBFCD638}
+	EndGlobalSection
+EndGlobal
